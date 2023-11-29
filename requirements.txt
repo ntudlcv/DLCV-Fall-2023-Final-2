@@ -1,0 +1,6 @@
+opencv-python
+imageio
+numpy==1.23.5
+PIMS
+pandas
+tqdm
